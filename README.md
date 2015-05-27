@@ -1,4 +1,5 @@
 # PyTagger
+<img src="https://github.com/Nerolathe/PyTagger/blob/master/screenshot.png">
 Just a simple app utilizing PyGObject and Mutagen-Python to edit the basic tags
 of an audio file. Although, only FLAC files have been tested at the moment.
 
